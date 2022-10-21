@@ -22,5 +22,8 @@ When running the analysis. We saw that there were drastic differences in the per
 
 2018, however, was a different story. in 2018, only 2 of the 11 stocks in the analysis were able to generate positive returns for investors. Of the 9 companies that generated negative returns, "DQ" generated the highest losses with a -64% return. 
 
+2017 Return Analysis.png
+2018 Return Analysis.png
+
 ### Code Refactoring Analysis
 
